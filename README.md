@@ -1,16 +1,18 @@
 # [Python Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLnKe36F30Y4bcRomKi02sP9NR27KnBqCK)
 
+Welcome to my Python Data Structures and Algorithms course! In this course, I will teach you all you need to know about Python Data Structures and Algorithms. I will walk you through each concept step-by-step, implement all data structures and algorithms, and provide practice problems and exams. By the time you have completed this course, you will also have seen at least 40 leetcode easy-med problems. ([Leetcode](https://leetcode.com/) is a resource used for practicing problems asked during technical interviews)
+
 ## Prerequisites
 * Python
   * Input/Output
   * Variables
-  * Primitive Data Types (int, float, bool)
-  * Artithmetic Operators (+, -, *, /, %, //, **)
-  * Logical Operators (and, or, not)
-  * Built-in Functions (abs(), max(), min(), sum(), type())
-  * Control Flow (If, Elif, Else, While)
+  * Primitive Data Types (```int, float, bool```)
+  * Artithmetic Operators (```+, -, *, /, %, //, **```)
+  * Logical Operators (```and, or, not```)
+  * Built-in Functions (```abs(), max(), min(), sum(), type()```)
+  * Control Flow (```if, elif, else, while```)
   * For Loops
-  * Collections (str, lst, tuple, dict, set)
+  * Collections (```str, lst, tuple, dict, set```)
   * Functions
   * Classes 
 
@@ -21,6 +23,8 @@
     * Operator Overloading
 * Recursion
 * Asymptotic Analysis (big O)
+    * Mathematical Proof
+    * Run-time and Extra space complexity
 * Searching Algorithms
     * Binary Search
     * Jump Search
