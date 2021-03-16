@@ -2,10 +2,15 @@
 
 ## Prerequisites
 * Python
-  * Variables
   * Input/Output
+  * Variables
+  * Primitive Data Types (int, float, bool)
+  * Artithmetic Operators (+, -, *, /, %, //, **)
+  * Logical Operators (and, or, not)
+  * Built-in Functions (abs(), max(), min(), sum(), type())
   * Control Flow (If, Elif, Else, While)
   * For Loops
+  * Collections (str, lst, tuple, dict, set)
   * Functions
   * Classes 
 
