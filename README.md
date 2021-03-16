@@ -10,7 +10,7 @@
   * Classes 
 
 ## Topics
-* Memory Map Images
+* [Memory Map Images](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/Memory%20Maps)
 * Python List Comprehension
 * Python Classes
     * Operator Overloading
