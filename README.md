@@ -9,6 +9,7 @@ Welcome to my Python Data Structures and Algorithms course! In this course, I wi
   * Primitive Data Types (```int, float, bool```)
   * Artithmetic Operators (```+, -, *, /, %, //, **```)
   * Logical Operators (```and, or, not```)
+  * Comparitive Operators (```<, <=, >, >=, ==, !=```
   * Built-in Functions (```abs(), max(), min(), sum(), type()```)
   * Control Flow (```if, elif, else, while```)
   * For Loops
