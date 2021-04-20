@@ -20,6 +20,8 @@ Welcome to my Python Data Structures and Algorithms course! In this course, I wi
 ## Topics
 * [Memory Map Images](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/Memory%20Maps)
 * Python List Comprehension
+    * Ternary Operators
+    * Generator Functions
 * Python Classes
     * Operator Overloading
 * Recursion
@@ -30,7 +32,7 @@ Welcome to my Python Data Structures and Algorithms course! In this course, I wi
     * Binary Search
     * Jump Search
 * Dynamic Arrays (list)
-    * Sorting Algorithms
+* Sorting Algorithms
     * Merge Sort
     * Bubble Sort
     * Insertion Sort
