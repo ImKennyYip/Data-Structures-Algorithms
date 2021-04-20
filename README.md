@@ -19,7 +19,7 @@ Welcome to my Python Data Structures and Algorithms course! In this course, I wi
 
 ## Topics
 * [Memory Map Images](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/Memory%20Maps)
-* Python List Comprehension
+* [Python List Comprehension](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/List%20Comprehension)
     * Ternary Operators
     * Generator Functions
 * Python Classes
