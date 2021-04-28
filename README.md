@@ -18,19 +18,19 @@ Welcome to my Python Data Structures and Algorithms course! In this course, I wi
   * Classes 
 
 ## Topics
-* [Memory Map Images](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/Memory%20Maps)
-* [Python List Comprehension](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/main/List%20Comprehension)
+* [Memory Map Images](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/master/1.%20Memory%20Maps)
+* [Python List Comprehension](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/master/2.%20List%20Comprehension)
     * Ternary Operators
     * Generator Functions
-* Python Classes
+* [Python Classes](https://github.com/ImKennyYip/Data-Structures-Algorithms/tree/master/3.%20Classes)
     * Operator Overloading
-* Recursion
 * Asymptotic Analysis (big O)
     * Mathematical Proof
     * Run-time and Extra space complexity
 * Searching Algorithms
     * Binary Search
     * Jump Search
+* Recursion
 * Dynamic Arrays (list)
 * Sorting Algorithms
     * Merge Sort
