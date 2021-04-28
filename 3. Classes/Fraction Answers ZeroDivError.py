@@ -1,3 +1,18 @@
+
+#Complete the following class
+'''
+Complete the Fraction class to represent fraction numbers, as oppose to floats.
+When printed, the format should be a/b, a being the numerator and b being the denominator.
+
+*YOU DO NOT NEED TO SIMPLIFY THE FRACTIONS* ex) 2/4 doesn't need to be simplified to 1/2
+
+The Fraction class has two data members: numerator and denominator.
+__add__ takes in another fraction and returns a new Fraction object with the sum of the 2 fractions
+__sub__ takes in another fraction and returns a new Fraction object with the difference of the 2 fractions
+__mul__ takes in another fraction and returns a new Fraction object with the product of the 2 fractions 
+__truediv__ takes in another fraction and returns a new Fraction object with the quotient of the 2 fractions 
+'''
+
 class Fraction:
     def __init__(self, numerator, denominator = 1):
         self.numerator = numerator

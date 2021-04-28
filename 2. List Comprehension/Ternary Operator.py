@@ -1,7 +1,3 @@
-'''
-https://github.com/ImKennyYip/Data-Structures-Algorithms
-https://www.youtube.com/channel/UCdZQlE28wAgm6SKX_u9_L-Q
-'''
 
 #Use Python's Ternary Operator Syntax to generate the following results
 '''
@@ -9,31 +5,14 @@ Syntax: x if (condition) else y
 '''
 
 #Given
-#grade = int(input("Enter a student's grade: "))
-# if grade >= 65: #student passes
-#     result = "P"
-# else:
-#     result = "F"
+grade = int(input("Enter a student's grade: "))
+if grade >= 65: #student passes
+    result = "P"
+else:
+    result = "F"
 
-#result = "P" if grade >= 65 else "F"
-#print(result)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+result = "P" if grade >= 65 else "F"
+print(result)
 
 
 #Use Python's Comprehension Syntax to generate the following results
@@ -53,10 +32,8 @@ Syntax: [val if (condition) else val2 for x in iterable]
 grades = [84, 99, 55, 65, 64, 78]
 #Result: ['P', 'P', 'F', 'P', 'F', 'P'] 
 
-# result = ["P" if grade >= 65 else "F" for grade in grades]
-# print(result)
-
-
+result = ["P" if grade >= 65 else "F" for grade in grades]
+print(result)
 
 
 ''' Problem 2 '''
@@ -65,7 +42,6 @@ grades = [84, 99, 55, None, 65, 64, 78, None, 0] #final grades, curve by giving 
 #Result: [89, 104, 60, 0,   70, 69, 83, 0,    5]
 
 result = [grade+5 if grade is not None else 0 for grade in grades]
-
 print(result)
 
 

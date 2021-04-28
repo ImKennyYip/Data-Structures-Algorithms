@@ -1,3 +1,4 @@
+#shallow copy vs deep copy
 
 #1
 lst1 = [1, 2, 3]

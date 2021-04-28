@@ -1,4 +1,6 @@
 
+#functions
+
 def func1(s):
     s = s.lower()
     print("Inside function s =", s)

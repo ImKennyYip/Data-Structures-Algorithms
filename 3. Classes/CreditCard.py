@@ -1,7 +1,3 @@
-'''
-https://github.com/ImKennyYip/Data-Structures-Algorithms
-https://www.youtube.com/channel/UCdZQlE28wAgm6SKX_u9_L-Q
-'''
 
 #attributes = data members, fields,
 #behaviors = methods

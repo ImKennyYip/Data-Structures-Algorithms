@@ -1,11 +1,4 @@
 '''
-Sources
-https://github.com/ImKennyYip/Data-Structures-Algorithms
-https://www.youtube.com/channel/UCdZQlE28wAgm6SKX_u9_L-Q
-'''
-
-
-'''
 Generator functions allow you create functions that behave like iterators
 This means that you could use them in a for loop.
 In a normal function, you would return a value. However, in a generator function, you use the 'yield'

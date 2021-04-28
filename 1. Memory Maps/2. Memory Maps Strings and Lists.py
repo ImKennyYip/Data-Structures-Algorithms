@@ -1,3 +1,5 @@
+#strings and lists
+
 #1
 s1 = "PYTHON"
 s1.lower()       

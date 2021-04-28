@@ -1,7 +1,5 @@
-#1 multiply
+#multiply (copy reference)
 board = [[0]*3 for i in range(3)]
-
-
 
 print("New Board")
 print(board)
